@@ -6,7 +6,7 @@ int main(){
 float a,A,p,w;
 printf("INGRESE SU ALTURA EXPRESADA EN METROS\n");
 scanf("%f",&a);
-printf("INGRESE SU PESO\n");
+printf("INGRESE SU EDAD\n");
 scanf("%f",&p);
 A=a*100;
 w=(A-100+(p*0.1))*0.9;
